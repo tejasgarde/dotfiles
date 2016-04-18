@@ -1,0 +1,1 @@
+ export PATH="/home/tejas/.cabal/bin:/opt/cabal/1.22/bin:/opt/ghc/7.10.3/bin:/home/tejas/Documents/development/github/flutter/flutter/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin"
